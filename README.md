@@ -2,7 +2,7 @@
 # 功能说明
 
 该项目实现了一个简单的ChatGPT聊天系统，上传普通PHP环境即可使用，无需数据库，所有数据仅在本地浏览器存储。支持主流OpenAI调用格式。用户可以创建和切换多个会话，并与助手进行交流。**如果对您有帮助可以加群交流**
-以下是主要功能的详细介绍：
+**以下是主要功能的详细介绍：**
 ## 商业版
 我们提供了更多商业版本供您选择，详情访问：[https://mall.foxlet.cn/](https://mall.foxlet.cn/)
 免费AI使用地址：[https://www.aifoxtech.com/](https://www.aifoxtech.com/)
