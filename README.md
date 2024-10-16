@@ -106,7 +106,8 @@
 ![image](https://github.com/user-attachments/assets/e4245318-41ae-4fab-a7f0-be449e96ad62)
 
 ## 添加好友加群
-![image](https://github.com/user-attachments/assets/bf369f59-d4dc-4c0f-8d13-0e1e333e31f9)
+![个人微信(1)](https://github.com/user-attachments/assets/4ba5b9e5-d1d2-4d23-8df1-08651e68e1cd)
+
 
 ## 关注我们
 ![image](https://github.com/user-attachments/assets/e97927f7-d7af-4d91-85e0-9089482b874b)
