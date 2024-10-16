@@ -69,7 +69,7 @@
 - 新建会话功能。
 - 用户消息的处理与助手回复的获取。
 - 会话历史的管理以及与 OpenAI API 的交互。
-- 设置API密钥$api_key = 'sk-****'; // 请替换为您的实际 API 密钥，**默认OpenAI接口接入的是智创聚合API平台https://s.lconai.com/，所以密钥请前往该平台注册生成，也可以自己更改其它平台**
+- 设置API密钥$api_key = 'sk-****'; // 请替换为您的实际 API 密钥，**默认OpenAI接口接入的是智创聚合API平台[https://s.lconai.com/](https://s.lconai.com/)，所以密钥请前往该平台注册生成，也可以自己更改其它平台**
 - 关于模型，默认是gpt-4o-all模型，可根据自己需求自行更改'model' => 的值。
 
 ## 技术栈
@@ -103,8 +103,8 @@
 
 ## 示例页面
 ![image](https://github.com/user-attachments/assets/12fc983f-605d-415f-8ad3-adfd606c825b)
-
 ![image](https://github.com/user-attachments/assets/e4245318-41ae-4fab-a7f0-be449e96ad62)
+
 ## 添加好友加群
 ![image](https://github.com/user-attachments/assets/bf369f59-d4dc-4c0f-8d13-0e1e333e31f9)
 
